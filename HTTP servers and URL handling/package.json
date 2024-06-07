@@ -1,0 +1,14 @@
+{
+  "name": "http-servers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "servers.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "author": "yuvraj",
+  "license": "ISC",
+  "dependencies": {
+    "url": "^0.11.3"
+  }
+}
